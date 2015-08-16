@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <group
+        android:id="@+id/user_group"
+        android:checkableBehavior="single">
+
+    <item android:id="@+id/nav_item_1"
+        android:icon="@drawable/ic_account"
+        android:title="@string/nav_item_1"/>
+
+    <item android:id="@+id/nav_item_2"
+        android:icon="@drawable/ic_email"
+        android:title="@string/nav_item_2"/>
+
+    <item android:id="@+id/nav_item_3"
+        android:icon="@drawable/ic_cart"
+        android:title="@string/nav_item_3"/>
+
+    </group>
+
+    <group
+        android:id="@+id/system_group"
+        android:checkableBehavior="single">
+
+    <item android:id="@+id/nav_item_4"
+        android:icon="@drawable/ic_android"
+        android:title="@string/nav_item_4"/>
+
+    <item android:id="@+id/nav_item_5"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/nav_item_5"/>
+
+    </group>
+
+</menu>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NavigationView</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="nav_item_1">Login</string>
+    <string name="nav_item_2">Inbox</string>
+    <string name="nav_item_3">Opción 3</string>
+    <string name="nav_item_4">Opción 4</string>
+    <string name="nav_item_5">Opción 5</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="et_email_hint">Email address</string>
+    <string name="et_password_hint">Password</string>
+    <string name="error_email_no_valido">Dirección incorrecta</string>
+    <string name="error_password_vacio">La contraseña no puede ser vacía</string>
+
+</resources>
